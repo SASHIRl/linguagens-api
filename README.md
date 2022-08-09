@@ -20,7 +20,14 @@ Demonstração do envio de uma requisição do tipo POST.
 https://sashiri-linguagens-api.herokuapp.com/linguagens
 
 🧑‍💻
-Tecnologias utilizadas para o desenvolvimento: Java, Spring, MongoDB, Postman, Maven e Heroku.
+## ✔️ Tecnologias utilizadas para o desenvolvimento
+
+- ``Java 8``
+- ``Spring``
+- ``MongoDB``
+- - ``Postman``
+- - ``Maven``
+- - ``Heroku``
 
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
