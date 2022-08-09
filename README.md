@@ -19,7 +19,6 @@ Demonstração do envio de uma requisição do tipo POST.
 🖱️
 https://sashiri-linguagens-api.herokuapp.com/linguagens
 
-🧑‍💻
 ## ✔️ Tecnologias utilizadas para o desenvolvimento
 
 - ``Java 8``
